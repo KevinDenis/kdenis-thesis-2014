@@ -1,0 +1,1 @@
+disp('Localisation dir has succesfully been loaded !');
